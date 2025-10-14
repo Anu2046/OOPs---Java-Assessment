@@ -1,7 +1,6 @@
 class Student {
     private String name;
     private int marks;
-
     void setDetails(String n, int m) {
         name = n;
         if (m >= 0 && m <= 100)
@@ -30,3 +29,4 @@ public class StudentRecord {
         s2.display();
     }
 }
+
