@@ -6,7 +6,7 @@ class Character {
     Character(String name) {
         this.name = name;
     }
-
+    
     void introduce() {
         System.out.println("Hello, I am " + name + "!");
     }
@@ -92,3 +92,4 @@ public class FairyAdventure {
         sc.close();
     }
 }
+
