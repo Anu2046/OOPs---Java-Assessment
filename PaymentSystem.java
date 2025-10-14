@@ -31,3 +31,4 @@ public class PaymentSystem {
         w1.pay(500);
     }
 }
+
