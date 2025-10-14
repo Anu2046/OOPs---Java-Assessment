@@ -6,7 +6,7 @@ class Animal {
     Animal(String name) {
         this.name = name;
     }
-
+    
     void makeSound() {
         System.out.println("This animal makes a sound.");
     }
@@ -55,3 +55,4 @@ public class AnimalGame {
         sc.close();
     }
 }
+
